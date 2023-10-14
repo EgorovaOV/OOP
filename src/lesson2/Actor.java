@@ -6,4 +6,4 @@ public abstract class Actor {
     protected boolean isTakeOrder;
 
     abstract String getName();
-}
+    }

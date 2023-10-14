@@ -1,7 +1,7 @@
 package lesson2;
 
 public interface ActorBehaviour {
-    void setMakeOrder();
+    boolean setMakeOrder();
     void setTakeOrder();
     boolean isMakeOrder();
     boolean isTakeOrder();

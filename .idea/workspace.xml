@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfc4cbc-9da1-47f3-ba20-e3bb6b2948ed" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/MarketBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/QueueBehaviour.java" afterDir="false" />
+    <list default="true" id="cbfc4cbc-9da1-47f3-ba20-e3bb6b2948ed" name="Changes" comment="lesson2">
+      <change afterPath="$PROJECT_DIR$/src/lesson3/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/ActorBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/ActorBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +47,31 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lesson2.Main">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Person" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.lesson2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
@@ -168,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697040987289</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson2">
+      <created>1697275570589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697275570589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,6 +195,7 @@
     <MESSAGE value="lesson1" />
     <MESSAGE value="so_diff" />
     <MESSAGE value="all" />
-    <option name="LAST_COMMIT_MESSAGE" value="all" />
+    <MESSAGE value="lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
   </component>
 </project>
